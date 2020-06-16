@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "loginfirebase",
-    "slug": "loginfirebase",
+    "name": "loginFirebase",
+    "slug": "loginFirebase",
     "platforms": [
       "ios",
       "android",
